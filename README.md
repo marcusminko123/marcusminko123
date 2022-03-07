@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on learning R for data science
+### 🔭 I’m currently learning R for data science
